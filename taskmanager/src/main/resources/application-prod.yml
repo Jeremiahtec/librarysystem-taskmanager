@@ -1,0 +1,15 @@
+spring:
+  application:
+  name: taskmanager
+
+school:
+  name: Jerry School
+  Address: Yoaco
+
+server:
+  port: 4000
+
+app:
+  version: 1.0
+
+api-key: covered

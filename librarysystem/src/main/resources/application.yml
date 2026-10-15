@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: librarysystem
+  datasource:
+    url: jdbc:postgresql://localhost:5432/library_db
+    username: postgres
+    password: jeremiah
+  jpa:
+    hibernate:
+      ddl-auto: update
